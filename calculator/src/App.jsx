@@ -1,6 +1,7 @@
-import Calc from "./Calc";
+import Toggle from "../../togglemode/src/Toggle";
+
 
 const App = () => {
-  return <Calc/>
+  return <Toggle/>
 };
 export default App;
